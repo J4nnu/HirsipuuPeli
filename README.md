@@ -15,6 +15,6 @@ Jos arvaus on väärä, kirjain lisätään arvattujen kirjaimien listaan ja vä
 Jos löydät kaikki oikeat kirjaimet, peli onnittelee ja kysyy pelataanko uudestaan vai lopetetaanko. Jos aloitetaan uusi peli, arvotaan uusi sana ja aloitetaan alusta. Lopetuksella peli sammuu. 
 Jos et arvaa sanaa, ja laskuri menee 9/9, peli ilmoittaa tappiosta ja näyttää oikean sana sekä kysyy pelataanko uusi peli.
 
-![tuloste](/HirsipuuPeli/voitto.PNG)
+![tuloste](/voitto.PNG)
 ![tappio](/HirsipuuPeli/havio.PNG)
 ![voitto](/HirsipuuPeli/voitto.PNG)
