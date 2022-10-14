@@ -1,4 +1,6 @@
+#Hirsipuupelin luokka. 
 import random
+
 class hirsipuu:
     oikein=[] #Listaan kerätään oikein arvatut kirjaimet
     sana=[] #listaan tallennetaan arvailtava sana
@@ -45,9 +47,9 @@ class hirsipuu:
         else: #jos kirjain ei ole sanassa, lisätään 1 yrityksiin
             self.yritysta=self.yritysta+1
 
-    def tulos(self):
+    def tulos(self): #Ilmoitetaan tulos pelaajalle. Häviössä näytetään oikea sana.
         if self.yritysta==9:
-            print("Hävisit pelin! Oikea sana oli: ","".join(uusipeli.sana))
+            print("Hävisit pelin! Oikea sana oli: ","".join(self.sana))
 
         if self.sana == self.oikein:
             print("Onneksiolkoon voitit!")
