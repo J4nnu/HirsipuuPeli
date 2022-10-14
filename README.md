@@ -19,4 +19,8 @@ Jos et arvaa sanaa, ja laskuri menee 9/9, peli ilmoittaa tappiosta ja näyttää
 
 ![tappio](/havio.PNG)
 
+<<<<<<< HEAD
 ![voitto](/voitto.PNG)
+=======
+![voitto](/voitto.PNG)
+>>>>>>> 0ac8768c9e1f396dab077a8f7a8b61f5322a0480
