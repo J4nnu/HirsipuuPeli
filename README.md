@@ -7,7 +7,7 @@ Sanoja.txt jossa on arvailtavia sanoja. Sanoja voi lisätä tai poistaa kunhan s
 
 ## Toiminta
 Alussa peli kysyy aloitetaanko uusi peli vai suljetaanko sovellus. 
-Kun uusi peli aloitetaan, luonaan **hirsipuu** luokasta **uusipeli** niminen olio. 
+Kun uusi peli aloitetaan, luodaan **hirsipuu** luokasta **uusipeli** niminen olio.
 Olioon arvotaan sana *arvoSana* metodilla.
 komentoriville, tai terminaaliin tulostetaan arvuuteltava sana _ merkillä, arvatut kirjaimet, sekä väärien yritysten määrä.
 Jos arvaat kirjaimen oikein, se asetetaan arvattavaan sanaan oikeaan kohtaa _ merkin tilalle sekä arvattujen kirjaimien listaan.. 
@@ -15,6 +15,8 @@ Jos arvaus on väärä, kirjain lisätään arvattujen kirjaimien listaan ja vä
 Jos löydät kaikki oikeat kirjaimet, peli onnittelee ja kysyy pelataanko uudestaan vai lopetetaanko. Jos aloitetaan uusi peli, arvotaan uusi sana ja aloitetaan alusta. Lopetuksella peli sammuu. 
 Jos et arvaa sanaa, ja laskuri menee 9/9, peli ilmoittaa tappiosta ja näyttää oikean sana sekä kysyy pelataanko uusi peli.
 
-![tuloste](/HirsipuuPeli/voitto.PNG)
-![tappio](/HirsipuuPeli/havio.PNG)
-![voitto](/HirsipuuPeli/voitto.PNG)
+![tuloste](/voitto.PNG)
+
+![tappio](/havio.PNG)
+
+![voitto](/voitto.PNG)
