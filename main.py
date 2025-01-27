@@ -16,3 +16,5 @@ while valikko==1:
     valikko=int(input("Pelaa uudestaan, valitse 1. Lopeta ja sulje, valitse 2."))
 
 print("Exit") 
+
+#Test github stuff-
